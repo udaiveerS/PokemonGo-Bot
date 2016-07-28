@@ -1,9 +1,9 @@
 {
-    "auth_service": "google",
+    "auth_service": "ptc",
     "username": "YOUR_USERNAME",
     "password": "YOUR_PASSWORD",
     "location": "SOME_LOCATION",
-    "gmapkey": "GOOGLE_MAPS_API_KEY",
+    "gmapkey": "AIzaSyCfHFrD9XZpcMqmjrPJPd8_bJE1Rph4EG4",
     "max_steps": 5,
     "mode": "all",
     "walk": 4.16,
@@ -15,12 +15,12 @@
     "item_filter": {
       "1": { "keep" : 100 },
       "101": { "keep" : 10 },
-      "102": { "keep" : 30 },
-      "103": { "keep" : 30 },
-      "201": { "keep" : 30 },
-      "701": { "keep" : 100 }
+      "102": { "keep" : 10 },
+      "103": { "keep" : 10 },
+      "201": { "keep" : 10 },
+      "701": { "keep" : 10 }
     },
-    "evolve_all": "NONE",
+    "evolve_all": "all",
     "evolve_speed": 20,
     "use_lucky_egg": false,
     "evolve_captured": false,
